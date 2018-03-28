@@ -1,0 +1,3 @@
+speech [speech] speech
+noise [noise] noise
+sil [sil] sil
